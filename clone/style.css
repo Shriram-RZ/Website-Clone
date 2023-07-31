@@ -1,0 +1,186 @@
+.background{
+    background-image: url(./topback.jpg);
+    height: 600px;
+    background-size: cover;
+
+}
+.nf{
+    text-decoration: none;
+    color:antiquewhite;
+    
+}
+.navban{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    
+    
+}
+.def{
+    color:aliceblue;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+
+}
+.des{
+    color: lightyellow;
+    margin-left: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.but{
+    margin-left: 20px;
+   
+}
+.lis{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    gap: 25px;
+    margin-top: -49px;
+    background-color: transparent;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+.ph{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   
+}
+.card1{
+    background-color: white;
+    height: 220px;
+    width: 220px;
+    border: 3px solid lightblue;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.card2{
+    background-color:white;
+    height: 220px;
+    width: 220px;
+    border: 3px solid lightblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+.card3{
+    background-color: white;
+    height: 220px;
+    width: 220px;
+    border: 3px solid lightblue;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+.opaci{
+    opacity: 0.5;
+    font-size: small;
+    position: relative;
+    top: 10px;
+    
+}
+.learn{
+    background-color: darkorange;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 50px;
+
+}
+.seclis{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin-top: 300px;
+    flex-wrap:wrap;
+    
+
+}
+
+.han{
+    color: lightcoral;
+}
+.learn:hover{
+    color: white;
+    border: 3px solid lightblue;
+}
+.threelis{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 300px;
+    justify-content: center;
+    
+    
+}
+.imga{
+    margin-top: -110px;
+}
+.learn[value="1"]{
+    margin-left: 800px;
+    
+    
+}
+.gogo{
+    display:flex;
+    
+    flex-direction: column;
+}
+.vert{
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+}
+.ite{
+    display: flex;
+    flex-direction:row;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.cli{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+.clien{
+    margin-top: 100px;
+}
+.feed{
+    display: flex;
+    
+    gap: 100px;
+    margin-top: 150px;
+  
+}
+.sap{
+    margin-top: 250px;
+}
+.foota{
+    margin-top:100px;
+}
+.bla{
+    text-decoration: none;
+    color: grey;
+}
+
+.card4{
+    height: 300px;
+    width: 250px;
+    text-align: center;
+    
+}
+.card12{
+    display:flex;
+    gap: 150px;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
